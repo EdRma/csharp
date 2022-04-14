@@ -1,0 +1,16 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\bin\Debug\net5.0\les5_namespaces.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\bin\Debug\net5.0\les5_namespaces.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\bin\Debug\net5.0\les5_namespaces.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\bin\Debug\net5.0\les5_namespaces.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\bin\Debug\net5.0\les5_namespaces.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\bin\Debug\net5.0\ref\les5_namespaces.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\bin\Debug\net5.0\les5_namespaces.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\les5_namespaces.csproj.AssemblyReference.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\les5_namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\les5_namespaces.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\les5_namespaces.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\les5_namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\les5_namespaces.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\ref\les5_namespaces.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\les5_namespaces.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_namespaces\les5_namespaces\obj\Debug\net5.0\les5_namespaces.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = les6_overerving
+build_property.ProjectDir = C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les6_overerving\les6_overerving\

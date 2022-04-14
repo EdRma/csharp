@@ -1,0 +1,16 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\les1_functies_return.csproj.AssemblyReference.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\les1_functies_return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\les1_functies_return.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\les1_functies_return.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\les1_functies_return.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\bin\Debug\net5.0\les1_functies_return.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\bin\Debug\net5.0\les1_functies_return.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\bin\Debug\net5.0\les1_functies_return.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\bin\Debug\net5.0\les1_functies_return.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\bin\Debug\net5.0\les1_functies_return.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\bin\Debug\net5.0\ref\les1_functies_return.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\bin\Debug\net5.0\les1_functies_return.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\les1_functies_return.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\ref\les1_functies_return.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\les1_functies_return.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies_return\les1_functies_return\obj\Debug\net5.0\les1_functies_return.genruntimeconfig.cache

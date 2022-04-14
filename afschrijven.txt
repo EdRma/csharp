@@ -1,0 +1,23 @@
+les 1
+
+hello world = af en getekent
+tijd op scherm = af en getekent
+functies =  af en getekent
+functies return = af en getekent
+
+les 2
+variables en datatypes = af en getekent
+arrays = af en getekent
+loops = af en getekent
+
+les 3
+classes = af en getekent
+switch cases = af en getekent
+
+les 5
+scopes = af en getekent
+getters en setters = af en getekent
+namespaces = gestart
+
+les 6
+overerving = gestart

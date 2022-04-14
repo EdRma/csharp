@@ -1,0 +1,16 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\bin\Debug\net5.0\les3_classes.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\bin\Debug\net5.0\les3_classes.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\bin\Debug\net5.0\les3_classes.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\bin\Debug\net5.0\les3_classes.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\bin\Debug\net5.0\les3_classes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\bin\Debug\net5.0\ref\les3_classes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\bin\Debug\net5.0\les3_classes.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\les3_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\les3_classes.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\les3_classes.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\les3_classes.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\les3_classes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\ref\les3_classes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\les3_classes.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\les3_classes.genruntimeconfig.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_classes\les3_classes\obj\Debug\net5.0\les3_classes.csproj.AssemblyReference.cache

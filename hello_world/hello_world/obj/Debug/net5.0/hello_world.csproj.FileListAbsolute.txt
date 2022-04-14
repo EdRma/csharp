@@ -1,0 +1,16 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\bin\Debug\net5.0\hello_world.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\bin\Debug\net5.0\hello_world.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\bin\Debug\net5.0\hello_world.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\bin\Debug\net5.0\hello_world.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\bin\Debug\net5.0\hello_world.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\bin\Debug\net5.0\ref\hello_world.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\bin\Debug\net5.0\hello_world.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\hello_world.csproj.AssemblyReference.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\hello_world.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\hello_world.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\ref\hello_world.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\hello_world.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\hello_world\hello_world\obj\Debug\net5.0\hello_world.genruntimeconfig.cache

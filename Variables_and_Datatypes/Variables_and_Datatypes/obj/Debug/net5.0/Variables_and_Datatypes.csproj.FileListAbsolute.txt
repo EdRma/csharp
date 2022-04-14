@@ -1,0 +1,16 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\bin\Debug\net5.0\Variables_and_Datatypes.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\bin\Debug\net5.0\Variables_and_Datatypes.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\bin\Debug\net5.0\Variables_and_Datatypes.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\bin\Debug\net5.0\Variables_and_Datatypes.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\bin\Debug\net5.0\Variables_and_Datatypes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\bin\Debug\net5.0\ref\Variables_and_Datatypes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\bin\Debug\net5.0\Variables_and_Datatypes.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\Variables_and_Datatypes.csproj.AssemblyReference.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\Variables_and_Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\Variables_and_Datatypes.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\Variables_and_Datatypes.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\Variables_and_Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\Variables_and_Datatypes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\ref\Variables_and_Datatypes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\Variables_and_Datatypes.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\Variables_and_Datatypes\Variables_and_Datatypes\obj\Debug\net5.0\Variables_and_Datatypes.genruntimeconfig.cache

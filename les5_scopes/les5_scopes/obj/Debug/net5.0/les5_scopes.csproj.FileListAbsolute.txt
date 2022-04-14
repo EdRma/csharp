@@ -1,0 +1,16 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\bin\Debug\net5.0\les5_scopes.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\bin\Debug\net5.0\les5_scopes.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\bin\Debug\net5.0\les5_scopes.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\bin\Debug\net5.0\les5_scopes.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\bin\Debug\net5.0\les5_scopes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\bin\Debug\net5.0\ref\les5_scopes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\bin\Debug\net5.0\les5_scopes.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\les5_scopes.csproj.AssemblyReference.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\les5_scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\les5_scopes.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\les5_scopes.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\les5_scopes.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\les5_scopes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\ref\les5_scopes.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\les5_scopes.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les5_scopes\les5_scopes\obj\Debug\net5.0\les5_scopes.genruntimeconfig.cache

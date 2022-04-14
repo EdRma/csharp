@@ -1,0 +1,16 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\bin\Debug\net5.0\les1_functies.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\bin\Debug\net5.0\les1_functies.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\bin\Debug\net5.0\les1_functies.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\bin\Debug\net5.0\les1_functies.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\bin\Debug\net5.0\les1_functies.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\bin\Debug\net5.0\ref\les1_functies.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\bin\Debug\net5.0\les1_functies.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\les1_functies.csproj.AssemblyReference.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\les1_functies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\les1_functies.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\les1_functies.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\les1_functies.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\les1_functies.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\ref\les1_functies.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\les1_functies.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les1_functies\les1_functies\obj\Debug\net5.0\les1_functies.genruntimeconfig.cache

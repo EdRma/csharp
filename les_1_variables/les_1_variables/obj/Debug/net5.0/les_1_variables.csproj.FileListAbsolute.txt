@@ -1,0 +1,16 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\bin\Debug\net5.0\les_1_variables.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\bin\Debug\net5.0\les_1_variables.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\bin\Debug\net5.0\les_1_variables.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\bin\Debug\net5.0\les_1_variables.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\bin\Debug\net5.0\les_1_variables.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\bin\Debug\net5.0\ref\les_1_variables.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\bin\Debug\net5.0\les_1_variables.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\les_1_variables.csproj.AssemblyReference.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\les_1_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\les_1_variables.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\les_1_variables.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\les_1_variables.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\les_1_variables.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\ref\les_1_variables.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\les_1_variables.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les_1_variables\les_1_variables\obj\Debug\net5.0\les_1_variables.genruntimeconfig.cache

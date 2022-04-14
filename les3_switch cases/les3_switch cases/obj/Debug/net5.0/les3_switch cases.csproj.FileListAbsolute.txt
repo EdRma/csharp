@@ -1,0 +1,15 @@
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\bin\Debug\net5.0\les3_switch cases.exe
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\bin\Debug\net5.0\les3_switch cases.deps.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\bin\Debug\net5.0\les3_switch cases.runtimeconfig.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\bin\Debug\net5.0\les3_switch cases.runtimeconfig.dev.json
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\bin\Debug\net5.0\les3_switch cases.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\bin\Debug\net5.0\ref\les3_switch cases.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\bin\Debug\net5.0\les3_switch cases.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\obj\Debug\net5.0\les3_switch cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\obj\Debug\net5.0\les3_switch cases.AssemblyInfoInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\obj\Debug\net5.0\les3_switch cases.AssemblyInfo.cs
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\obj\Debug\net5.0\les3_switch cases.csproj.CoreCompileInputs.cache
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\obj\Debug\net5.0\les3_switch cases.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\obj\Debug\net5.0\ref\les3_switch cases.dll
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\obj\Debug\net5.0\les3_switch cases.pdb
+C:\Users\Ed\OneDrive - Mediacollege Amsterdam\MA\bewijzenmap\periode 1.3\csharp\les3_switch cases\les3_switch cases\obj\Debug\net5.0\les3_switch cases.genruntimeconfig.cache
