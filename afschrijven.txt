@@ -17,7 +17,7 @@ switch cases = af en getekent
 les 5
 scopes = af en getekent
 getters en setters = af en getekent
-namespaces = gestart
+namespaces = af
 
 les 6
 overerving = gestart
