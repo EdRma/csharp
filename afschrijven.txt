@@ -20,4 +20,4 @@ getters en setters = af en getekent
 namespaces = af
 
 les 6
-overerving = af
+overerving = af en getekent
